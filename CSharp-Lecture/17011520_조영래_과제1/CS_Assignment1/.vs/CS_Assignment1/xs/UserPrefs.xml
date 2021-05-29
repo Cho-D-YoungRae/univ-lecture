@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{4180D2CD-95CF-442B-A5BB-7A479FDDEF8C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CS_Assignment1/Program.cs">
+    <Files>
+      <File FileName="CS_Assignment1/NetBook.cs" Line="8" Column="16" />
+      <File FileName="CS_Assignment1/Students.cs" Line="16" Column="1" />
+      <File FileName="CS_Assignment1/Gamers.cs" Line="1" Column="1" />
+      <File FileName="CS_Assignment1/Program.cs" Line="38" Column="31" />
+      <File FileName="CS_Assignment1/NoteBook.cs" Line="16" Column="1" />
+      <File FileName="CS_Assignment1/ComputerManager.cs" Line="9" Column="32" />
+      <File FileName="CS_Assignment1/Desktop.cs" Line="19" Column="10" NotebookId="1" IsPinned="True" />
+      <File FileName="CS_Assignment1/Computer.cs" Line="47" Column="24" NotebookId="1" IsPinned="True" />
+      <File FileName="CS_Assignment1/User.cs" Line="34" Column="30" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CS__Assignment1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

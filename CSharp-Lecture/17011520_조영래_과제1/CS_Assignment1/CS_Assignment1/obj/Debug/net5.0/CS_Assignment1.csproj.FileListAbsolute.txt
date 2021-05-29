@@ -1,0 +1,15 @@
+/Users/jody/Projects/CS_Assignment1/CS_Assignment1/bin/Debug/net5.0/CS_Assignment1.deps.json
+/Users/jody/Projects/CS_Assignment1/CS_Assignment1/bin/Debug/net5.0/CS_Assignment1.runtimeconfig.json
+/Users/jody/Projects/CS_Assignment1/CS_Assignment1/bin/Debug/net5.0/CS_Assignment1.runtimeconfig.dev.json
+/Users/jody/Projects/CS_Assignment1/CS_Assignment1/bin/Debug/net5.0/CS_Assignment1.dll
+/Users/jody/Projects/CS_Assignment1/CS_Assignment1/bin/Debug/net5.0/ref/CS_Assignment1.dll
+/Users/jody/Projects/CS_Assignment1/CS_Assignment1/bin/Debug/net5.0/CS_Assignment1.pdb
+/Users/jody/Projects/CS_Assignment1/CS_Assignment1/obj/Debug/net5.0/CS_Assignment1.csprojAssemblyReference.cache
+/Users/jody/Projects/CS_Assignment1/CS_Assignment1/obj/Debug/net5.0/CS_Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jody/Projects/CS_Assignment1/CS_Assignment1/obj/Debug/net5.0/CS_Assignment1.AssemblyInfoInputs.cache
+/Users/jody/Projects/CS_Assignment1/CS_Assignment1/obj/Debug/net5.0/CS_Assignment1.AssemblyInfo.cs
+/Users/jody/Projects/CS_Assignment1/CS_Assignment1/obj/Debug/net5.0/CS_Assignment1.csproj.CoreCompileInputs.cache
+/Users/jody/Projects/CS_Assignment1/CS_Assignment1/obj/Debug/net5.0/CS_Assignment1.dll
+/Users/jody/Projects/CS_Assignment1/CS_Assignment1/obj/Debug/net5.0/ref/CS_Assignment1.dll
+/Users/jody/Projects/CS_Assignment1/CS_Assignment1/obj/Debug/net5.0/CS_Assignment1.pdb
+/Users/jody/Projects/CS_Assignment1/CS_Assignment1/obj/Debug/net5.0/CS_Assignment1.genruntimeconfig.cache

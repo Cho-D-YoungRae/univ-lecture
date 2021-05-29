@@ -1,0 +1,15 @@
+C:\Users\ongte\source\repos\TestIO\TestIO\bin\Debug\net5.0\TestIO.exe
+C:\Users\ongte\source\repos\TestIO\TestIO\bin\Debug\net5.0\TestIO.deps.json
+C:\Users\ongte\source\repos\TestIO\TestIO\bin\Debug\net5.0\TestIO.runtimeconfig.json
+C:\Users\ongte\source\repos\TestIO\TestIO\bin\Debug\net5.0\TestIO.runtimeconfig.dev.json
+C:\Users\ongte\source\repos\TestIO\TestIO\bin\Debug\net5.0\TestIO.dll
+C:\Users\ongte\source\repos\TestIO\TestIO\bin\Debug\net5.0\ref\TestIO.dll
+C:\Users\ongte\source\repos\TestIO\TestIO\bin\Debug\net5.0\TestIO.pdb
+C:\Users\ongte\source\repos\TestIO\TestIO\obj\Debug\net5.0\TestIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ongte\source\repos\TestIO\TestIO\obj\Debug\net5.0\TestIO.AssemblyInfoInputs.cache
+C:\Users\ongte\source\repos\TestIO\TestIO\obj\Debug\net5.0\TestIO.AssemblyInfo.cs
+C:\Users\ongte\source\repos\TestIO\TestIO\obj\Debug\net5.0\TestIO.csproj.CoreCompileInputs.cache
+C:\Users\ongte\source\repos\TestIO\TestIO\obj\Debug\net5.0\TestIO.dll
+C:\Users\ongte\source\repos\TestIO\TestIO\obj\Debug\net5.0\ref\TestIO.dll
+C:\Users\ongte\source\repos\TestIO\TestIO\obj\Debug\net5.0\TestIO.pdb
+C:\Users\ongte\source\repos\TestIO\TestIO\obj\Debug\net5.0\TestIO.genruntimeconfig.cache
