@@ -1,0 +1,1 @@
+select professorId, name from professor;

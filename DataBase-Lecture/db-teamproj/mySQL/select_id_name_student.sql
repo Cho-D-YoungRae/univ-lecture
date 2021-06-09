@@ -1,0 +1,1 @@
+select studentId, name from student;
