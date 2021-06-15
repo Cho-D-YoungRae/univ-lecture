@@ -8,7 +8,7 @@ SET foreign_key_checks = 0;
 drop table if exists Department;
 drop table if exists Professor;
 drop table if exists Student;
-drop table if exists Lecture;
+drop table if exists Lecture;f
 drop table if exists Club;
 drop table if exists Tuition;
 drop table if exists Professor_has_student;
